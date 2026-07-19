@@ -6,7 +6,207 @@
     <description>Top AI Agent stories, curated daily</description>
     <language>en-us</language>
     <atom:link href="https://hyperio-mc.github.io/dan-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 18 Jul 2026 10:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:01:49 GMT</lastBuildDate>
+    <item>
+      <title>Moonshot AI launches Kimi K3 — 2.8T parameter open-weights frontier model</title>
+      <link>https://news.smol.ai/issues/26-07-16-kimi-k30/</link>
+      <description>Moonshot&apos;s Kimi K3 is the largest open-weight model ever announced, with 2.8T parameters, 1M-token context, native multimodal input, and novel Kimi Delta Attention for 6.3x faster decoding. It hit #1 on Frontend Code Arena with a 76% pairwise win rate, beating Claude Fable 5 and GPT-5.6 Sol. Open weights promised by July 27. This is the first Chinese model that&apos;s genuinely impossible to dismiss at the frontier tier.</description>
+      <guid isPermaLink="false">2026-07-19-1</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Alibaba Cloud unveils Agent Native Cloud at WAIC 2026</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Alibaba Cloud announced Agent Native Cloud at the World Artificial Intelligence Conference — a new architecture with AgentTeams for multi-agent orchestration, Agentic Computer for secure sandboxed execution, and infrastructure tuned for reusable agent skills and identity integration. This is a vendor-grade play to move enterprises from one-off agent prototypes to productized, auditable fleets.</description>
+      <guid isPermaLink="false">2026-07-19-2</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Setting up your spare Mac for Claude Code to control — a step-by-step guide</title>
+      <link>https://ykdojo.github.io/claude-controls-mac/</link>
+      <description>A practical guide to turning a spare Mac into an always-on machine Claude Code can fully control with computer use enabled, accessible from your phone via the Claude app or over SSH. Hit #1 on Hacker News with 569 points. Covers security isolation, why containers fall short, and the full setup from macOS configuration to remote access.</description>
+      <guid isPermaLink="false">2026-07-19-3</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Thinking Machines Lab launches Inkling — 975B parameter open-weights model</title>
+      <link>https://news.smol.ai/issues/26-07-15-thinky-inkling/</link>
+      <description>Mira Murati&apos;s Thinking Machines Lab released Inkling, its first fully open-weights foundation model. 975B parameters with 41B active in a MoE architecture, Apache 2.0 licensed, supporting text/image/audio input with up to 1M context. Day-0 ecosystem support from vLLM, SGLang, Modal, Baseten, Databricks, and Hugging Face. Positioned as a customizable base model, not a benchmark-maxed flagship.</description>
+      <guid isPermaLink="false">2026-07-19-4</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Anthropic&apos;s CISO publishes practical risk framework for agentic AI</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Anthropic published &apos;Zero risk isn&apos;t the job: a CISO&apos;s guide to agentic AI&apos; — a compact operational playbook with four concrete questions to assess agent risk: ingested content trust, allowed actions, blast radius, and observability. Gives security teams a practical checklist to approve, gate, or reject agent pilots without blocking experimentation.</description>
+      <guid isPermaLink="false">2026-07-19-5</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>OpenAI&apos;s Codex + ChatGPT Work usage grows 2.5x in one week</title>
+      <link>https://news.smol.ai/issues/26-07-14-not-much/</link>
+      <description>Sam Altman reported 2.5x weekly usage growth for OpenAI&apos;s agent products, driven by Codex and ChatGPT Work demand plus GPT-5.6 Sol. JetBrains adopted Codex as its recommended agent. LangChain added tracing for Codex, Cursor, Copilot, and OpenCode in LangSmith. Harness quality and observability are becoming first-class differentiators — model quality alone isn&apos;t enough anymore.</description>
+      <guid isPermaLink="false">2026-07-19-6</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Google Cloud publishes 13 hands-on demos for Gemini Enterprise Agent Platform</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Google Cloud posted 13 codelabs showing end-to-end patterns for building, scaling, governing, and evaluating agents on the Gemini Enterprise Agent Platform. Includes an Agent-to-UI demo, ambient expense agent with human-in-the-loop, and MCP examples. Builders can skip theoretical docs and follow runnable examples covering stateful agents, Agent Runtime deployment, and runtime governance.</description>
+      <guid isPermaLink="false">2026-07-19-7</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>NVIDIA positions &apos;intelligence per dollar&apos; as the core metric for agentic post-training</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>NVIDIA published a framework reframing economics for agentic systems: post-training (continuous task-driven refinement) is the central workload and should be measured by &apos;intelligence per dollar,&apos; building on cost-per-token but factoring in continuous RL-style improvement. Signals a shift from benchmark-chasing to cost-efficiency in agent development.</description>
+      <guid isPermaLink="false">2026-07-19-8</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Prime Intellect releases verifiers v1 — environment stack for agentic RL</title>
+      <link>https://news.smol.ai/issues/26-07-13-not-much/</link>
+      <description>Prime Intellect released verifiers v1, a redesigned environment stack for agentic reinforcement learning and evaluations. Rollout traces are stored as message DAGs, reducing complexity from O(n²) to O(n) and making long-horizon multimodal rollouts practical. Demonstrated with a 100B reasoning model running 40-turn SWE agent tasks on 6 H200 nodes in under 2 days.</description>
+      <guid isPermaLink="false">2026-07-19-9</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>PrismML releases Bonsai 27B — compressed Qwen 3.6 running locally on iPhone</title>
+      <link>https://news.smol.ai/issues/26-07-14-not-much/</link>
+      <description>PrismML released Bonsai 27B, a compressed variant of Qwen 3.6 27B in two flavors: Ternary at 5.9 GB and 1-bit at 3.9 GB, both Apache 2.0. The claim is notable for preserving multimodal, tool-using, long-context agentic workflows locally on consumer devices — including a demo of Hermes running on an iPhone.</description>
+      <guid isPermaLink="false">2026-07-19-10</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Bound — a deterministic control harness for AI agents</title>
+      <link>https://github.com/Danny-de-bree/bound</link>
+      <description>Bound sits between execution and the agent&apos;s next decision, turning observable evidence into a deterministic control signal: ACCEPT, RETRY, REPLAN, or ROLLBACK. Coding agents are good at continuing but bad at knowing when to stop — Bound fixes that. Ships as a skill for Codex, Claude Code, Cline, and other compatible coding agents.</description>
+      <guid isPermaLink="false">2026-07-19-11</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>AI Agents for the Working Mathematician</title>
+      <link>https://chaoxu.prof/posts/2026-07-18-ai-agents-for-the-working-mathematician.html</link>
+      <description>A mathematician&apos;s practical guide to using autonomous AI agents for research — not pasting questions into ChatGPT, but running Codex agents that bash on conjectures for hours, track their own progress, learn from mistakes, and avoid retrying dead ends. Argues that the &apos;AI can never solve this&apos; opinion is wrong when you use agents properly.</description>
+      <guid isPermaLink="false">2026-07-19-12</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>SafeAI — open-source static AI risk analyzer for AI agents</title>
+      <link>https://github.com/ikaruscareer/SafeAI</link>
+      <description>SafeAI scans AI application source code for security risks, capability exposure, and governance gaps — entirely offline, never executes agents or calls LLMs. Covers prompt injection, agent tool misuse, capability sprawl, MCP exposure, and governance gaps. Designed for CI/CD integration to catch risks before deployment.</description>
+      <guid isPermaLink="false">2026-07-19-13</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Talon — self-hosted multi-platform agentic AI harness</title>
+      <link>https://github.com/dylanneve1/talon</link>
+      <description>Talon is a multi-platform agentic AI harness running on Telegram, Discord, Microsoft Teams, and Terminal, with a pluggable backend (Claude Agent SDK, Kilo, OpenCode, Codex, OpenAI Agents). Features full MCP tool access, hot-reloadable plugins, persistent background agents (Heartbeat, Dream), goals, skills, triggers, and a FUSE-backed virtual filesystem.</description>
+      <guid isPermaLink="false">2026-07-19-14</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Agentty ADE — reliable multi-agent orchestrator for your terminal</title>
+      <link>https://github.com/agentty-xyz/agentty</link>
+      <description>Agentty is an Agentic Development Environment built in Rust and Ratatui, bringing agents, review, and iteration into one terminal workflow. Supports Codex, Claude, Antigravity, and Gemini as pluggable backends. Aims to provide structured, controllable AI-assisted software development with integrated review cycles.</description>
+      <guid isPermaLink="false">2026-07-19-15</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Synapse — local codebase indexer and MCP server for Claude Code</title>
+      <link>https://github.com/nrkoka786/synapse</link>
+      <description>Synapse watches your project folders, indexes them locally, and connects to Claude via MCP so Claude knows your codebase without you pasting code or explaining conventions. Stores everything locally with no API key required. Works with Claude Code, Cursor, and any MCP client. Supports 25+ file types with real-time re-indexing.</description>
+      <guid isPermaLink="false">2026-07-19-16</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Peek-CLI — let coding agents see your browser and iterate on frontend designs</title>
+      <link>https://github.com/puffinsoft/peek-cli</link>
+      <description>Peek-CLI lets Claude Code, Codex, Copilot and other coding agents capture screenshots of any open browser tab via a WebSocket-connected Chrome extension. Agents can iterate on frontend designs until they&apos;re flawless — and the architecture makes it impossible for the agent to do anything but take screenshots. MIT licensed, open source.</description>
+      <guid isPermaLink="false">2026-07-19-17</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Kimi K3 beats Claude Fable 5 and GPT-5.6 Sol in Arena rankings</title>
+      <link>https://news.smol.ai/issues/26-07-17-not-much/</link>
+      <description>Following K3&apos;s launch, Arena confirmed it hit #1 on Frontend Code Arena with 1679 points and a 76% pairwise win rate, surpassing Fable 5 (63%) and GPT-5.6 Sol (58%). Artificial Analysis placed K3 at 57 on its Intelligence Index, comparable to Opus 4.8 and GPT-5.5. K3 also debuted at #3 on DeepSWE — the first open-weights model to crack the top tier on software engineering benchmarks.</description>
+      <guid isPermaLink="false">2026-07-19-18</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Black Lake showcases industrial AI agents at WAIC for factory workflows</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Black Lake Technologies demonstrated industrial AI agents at WAIC — CAD-to-process, order decomposition, scheduling, and quality-inspection agents for manufacturing. Shortlisted to WAIC SAIL Top 30 and named a UNIDO Trusted Partner. Signals that vertical agents tied to concrete, constrained decision workflows are easier to validate and deploy than generic chat assistants.</description>
+      <guid isPermaLink="false">2026-07-19-19</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Trending skill: ai-video-generation tops skills.sh charts</title>
+      <link>https://www.skills.sh/101-skills/skills/ai-video-generation</link>
+      <description>ai-video-generation from 101-skills is the #1 trending skill on skills.sh with 23K installs. Design-guide from Paperclip AI (15.3K), find-skills from Vercel Labs (12.8K), and ai-image-generation from Skills Collective (7.2K) round out the top 4. The skills ecosystem continues to grow as agent platforms adopt SKILL.md as a standard.</description>
+      <guid isPermaLink="false">2026-07-19-20</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">skills.sh</source>
+    </item>
+    <item>
+      <title>Agent Skills ecosystem growing — agentskills.io documents the spec</title>
+      <link>https://agentskills.io/home.md</link>
+      <description>agentskills.io continues to publish documentation for the Agent Skills specification, including overviews, client implementation guides for adding skills support to your agent, and a client showcase. The spec is gaining traction as a standard way for agents to discover and install reusable skill bundles.</description>
+      <guid isPermaLink="false">2026-07-19-21</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">agentskills.io</source>
+    </item>
+    <item>
+      <title>OpenAI launches GPT-5.6 Sol/Terra/Luna family with agentic features</title>
+      <link>https://news.smol.ai/issues/26-07-09-gpt-56/</link>
+      <description>OpenAI&apos;s GPT-5.6 launch introduced three models — Sol (flagship), Terra (balanced), and Luna (fast/cheap) — with tiered API pricing from $1 to $30 per million tokens. The launch bundled ChatGPT Work (a desktop app merging Codex + ChatGPT), Sites beta, programmatic tool calling, and a multi-agent beta in the Responses API. Sam Altman called Sol &apos;the best model we have ever produced.&apos;</description>
+      <guid isPermaLink="false">2026-07-19-22</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Anthropic expands Claude Cowork with background agents on mobile and web</title>
+      <link>https://news.smol.ai/issues/26-07-07-not-much/</link>
+      <description>Anthropic expanded the background agent UX with Claude Cowork for mobile and web, emphasizing task-running background teammates. Also extended access to Claude Fable 5 on paid plans. The &apos;harness&apos; concept in agent design gained traction, highlighted by Lilian Weng and echoed by LangChain&apos;s new Deep Agents course and open-source project.</description>
+      <guid isPermaLink="false">2026-07-19-23</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>xAI launches Grok 4.5 — coding-and-agents-focused frontier model</title>
+      <link>https://news.smol.ai/issues/26-07-08-grok-45/</link>
+      <description>xAI publicly launched Grok 4.5, a 1.5T parameter model emphasizing capability-per-dollar rather than benchmark supremacy. Elon Musk described it as &apos;Opus-class&apos; but faster and more token-efficient. Priced at $2 per 1M input tokens and $6 per 1M output tokens, with a context window expected to return to 1 million tokens soon.</description>
+      <guid isPermaLink="false">2026-07-19-24</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Chinese AI models seize OpenRouter&apos;s top five as Western labs vanish from top 10</title>
+      <link>https://www.reddit.com/r/LocalLLM/comments/1uuyw46/chinese_ai_models_seize_openrouters_top_five_as/</link>
+      <description>A notable shift on OpenRouter saw Chinese open-weight models (including Kimi K3, Qwen 3.6, and others) take the top five spots, while OpenAI and Google models fell out of the top 10. Driven by aggressive pricing, open weights, and competitive agentic performance. Companies are increasingly turning to Chinese open-weight models to cut costs.</description>
+      <guid isPermaLink="false">2026-07-19-25</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Reddit</source>
+    </item>
     <item>
       <title>Claude Code: Anatomy of a Misfeature — the AFK auto-continue that wasn&apos;t in the changelog</title>
       <link>https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/</link>
