@@ -6,7 +6,207 @@
     <description>Top AI Agent stories, curated daily</description>
     <language>en-us</language>
     <atom:link href="https://hyperio-mc.github.io/dan-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 20 Jul 2026 10:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:01:50 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA brings agentic MCP connections and Cosmos 3 Edge to SIGGRAPH</title>
+      <link>https://blogs.nvidia.com/blog/siggraph-news-2026/</link>
+      <description>NVIDIA&apos;s SIGGRAPH keynote unveiled MCP integrations across Blender, Unreal, Houdini, Adobe, and Foundry — letting AI agents directly manipulate scenes, timelines, and asset libraries inside creative tools. They also released Cosmos 3 Edge, a 4B-parameter world model optimized for on-device physical AI and robotics on Jetson Thor, plus a Synthetic Video Detector NIM with 92% accuracy at 22ms/frame.</description>
+      <guid isPermaLink="false">2026-07-21-1</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">NVIDIA</source>
+    </item>
+    <item>
+      <title>US policy debate intensifies over restricting Chinese open-weight AI models</title>
+      <link>https://news.smol.ai/issues/26-07-20-not-much/</link>
+      <description>The Trump administration is considering layered restrictions on cutting-edge Chinese models like Kimi K3 — procurement bans, Entity List designations, security advisories, and liability requirements. Technical voices including Clement Delangue, Margaret Mitchell, and Albert Pompliano warn this would harm competition, sovereignty, and defensive security. Hugging Face&apos;s disclosure that they used self-hosted GLM-5.2 during a cyber incident became the centerpiece argument for open models as a security necessity.</description>
+      <guid isPermaLink="false">2026-07-21-2</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Kimi K3 beats Claude Fable and GPT-5.6 Sol on Frontend Code Arena</title>
+      <link>https://news.smol.ai/issues/26-07-17-not-much/</link>
+      <description>Moonshot&apos;s Kimi K3 reached #1 on DesignArena&apos;s Frontend Web App Arena with 1326 Elo, surpassing all Anthropic models. Arena&apos;s overall agentic evaluation placed K3 at #4 globally, matching Claude Opus 4.8 and GPT-5.6 Sol. It&apos;s the first time a Chinese model has led a US-based coding arena — and open weights are promised by July 27.</description>
+      <guid isPermaLink="false">2026-07-21-3</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>The &apos;harness thesis&apos; gains traction: maybe the orchestration layer, not the base model, does the generalizing</title>
+      <link>https://news.smol.ai/issues/26-07-20-not-much/</link>
+      <description>Alex Zhang&apos;s thread on RLMs and compositional generalization sparked the week&apos;s deepest research discussion. The claim: RLMs trained on short tasks can generalize to tasks 8-32x longer and transfer across domains sharing decomposition structure. Commentary from Lilian Weng, Omar Khattab, and Davis Breunig framed this as a serious alternative to pure parameter scaling — the inductive bias may now live in the orchestration layer, not the Transformer.</description>
+      <guid isPermaLink="false">2026-07-21-4</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Alibaba signals Qwen 3.8 Max will be open-weighted</title>
+      <link>https://news.smol.ai/issues/26-07-20-not-much/</link>
+      <description>Alibaba Qwen announced a new live version of Qwen3.8-Max-Preview with broad daily improvements and explicitly stated they&apos;re working toward &apos;a more capable, official version&apos; and &apos;to open-weight it for everyone.&apos; Community reports describe it as 2.4T parameters with strong multimodality and native video understanding, though still inconsistent on long-horizon tasks.</description>
+      <guid isPermaLink="false">2026-07-21-5</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Zhipu brings 1GW data center online with Chinese-made chips for GLM training</title>
+      <link>https://news.smol.ai/issues/26-07-20-not-much/</link>
+      <description>Widely shared posts claim Zhipu has partially brought a 1GW data center online using only domestically produced chips to support future GLM model training. The strategic significance: China isn&apos;t just shipping competitive open models — it&apos;s building an independent compute stack for frontier training, challenging the assumption that US export controls create a durable compute moat.</description>
+      <guid isPermaLink="false">2026-07-21-6</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Anthropic expands Claude Cowork to mobile and web with background agent UX</title>
+      <link>https://news.smol.ai/issues/26-07-07-not-much/</link>
+      <description>Anthropic rolled out Claude Cowork for mobile and web, emphasizing task-running background teammates. They also extended Claude Fable 5 access through July 12 for paid plans. ClaudeDevs offered 6 months of Claude Max 20x for open-source maintainers. The moves signal Anthropic&apos;s push to make background agents a daily-use primitive.</description>
+      <guid isPermaLink="false">2026-07-21-7</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>LangSmith Sandboxes and Agno Environments ship for agent testing</title>
+      <link>https://news.smol.ai/issues/26-07-20-not-much/</link>
+      <description>LangChain launched LangSmith Sandboxes for isolated agent execution and evaluation, while Agno shipped Environments for similar safe-runtime use cases. LangChain also published work on IssueBench — evaluating long-running debugging agents via synthetic environments and production traces. The tooling around agent testing is maturing fast.</description>
+      <guid isPermaLink="false">2026-07-21-8</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>World models become a practical agent-training primitive</title>
+      <link>https://news.smol.ai/issues/26-07-20-not-much/</link>
+      <description>New research summarized by @cwolferesearch shows that augmenting agentic RL with world modeling losses over observation tokens improves sample efficiency, tool use, generalization, and inference-time compute utilization. The key insight: rollout observations are dense supervision, and when balanced carefully against reward optimization, they meaningfully improve agent performance.</description>
+      <guid isPermaLink="false">2026-07-21-9</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>OpenIngress: Find where AI agents break when navigating your site</title>
+      <link>https://github.com/Open-Ingress/OpenIngress</link>
+      <description>OpenIngress is a self-hosted tool that crawls websites like a browser would, inspects what an agent can actually see and click via accessibility-tree analysis, then runs LLM-guided tasks against that crawl. The output: a report showing which pages were reached, what broke, and where navigation stalled. Being findable (SEO, llms.txt) is not the same as being usable by an agent on the live site.</description>
+      <guid isPermaLink="false">2026-07-21-10</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Shackle: Deterministic runtime governance for AI agents</title>
+      <link>https://github.com/Fame510/SHACKLE</link>
+      <description>Shackle is a governance protocol and policy-decision daemon that mediates every agent tool call in real time. It enforces budget limits, loop limits, and policy constraints with an ALLOW/DENY/HITL decision surface. The SP/1.0 conformance standard includes 15 hash-verifiable test vectors and a reference implementation in pure Python. Think of it as guardrails that actually fire before the next call, not after.</description>
+      <guid isPermaLink="false">2026-07-21-11</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Agent Search Engine: an independent index of 247 AI agents</title>
+      <link>https://agentsearchengine.app</link>
+      <description>A new independent search engine launched with 247 verified records across 11 system classes, ranked by maintained adoption rather than sponsorship. The index covers agents, MCP servers, frameworks, and infrastructure — designed to help developers decide, not just discover. 148 records are active this month.</description>
+      <guid isPermaLink="false">2026-07-21-12</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>AI movie pipeline: 10-minute films with Claude Code and Seedance</title>
+      <link>https://github.com/dawndrain/movie-gen</link>
+      <description>A developer shared a working pipeline for making 5-12 minute AI films with consistent characters and voices using Claude Code as the director, Seedance 2.0 for video, Nano Banana Pro for images, and ElevenLabs for voices. About 10 films have been produced this way, including an 11-minute comedy with ~80 shots across ~15 iteration passes. The repo is built to be driven by Claude Code, not by hand.</description>
+      <guid isPermaLink="false">2026-07-21-13</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Automating first-pass customer support with Claude Code and MCP</title>
+      <link>https://sitespeak.ai/blog/automate-customer-support-mcp</link>
+      <description>SiteSpeak published a detailed guide on running Claude Code headless on a schedule with four MCP servers (support inbox, Sentry, Nightwatch, email client) to triage support tickets. 67 runs so far — the agent pulls error logs, checks docs, and drafts replies for human review. No glue code; the integration is a markdown instruction file the agent follows.</description>
+      <guid isPermaLink="false">2026-07-21-14</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Lagotto Meter: How well do AI agents understand your website?</title>
+      <link>https://lake8.dev/lagotto-meter/</link>
+      <description>Lagotto Meter is a new tool that measures the semantic truth perceived by AI — the delta between what a site claims and what an agent actually finds. It checks whether documentation, case studies, and published content match what&apos;s discoverable by automated agents. The thesis: keyword ranking is dead, and documented evidence is what agents use to evaluate you now.</description>
+      <guid isPermaLink="false">2026-07-21-15</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>AI Agentic Landscape 2026: mapping the agent ecosystem</title>
+      <link>https://trustedagents.manzia.com</link>
+      <description>A new landscape map attempts to categorize the exploding AI agent ecosystem as of mid-2026, covering frameworks, runtimes, MCP infrastructure, and vertical agent products. It joins a growing list of attempts to make sense of an ecosystem that&apos;s growing faster than anyone can track manually.</description>
+      <guid isPermaLink="false">2026-07-21-16</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Was Hugging Face breached by AI agents?</title>
+      <link>https://mrkt30.com/was-hugging-face-breached-by-ai-agents/</link>
+      <description>A new analysis examines whether Hugging Face&apos;s recent security incident involved AI agents as the attack vector or the defensive tool. The piece explores the growing intersection of agent capabilities and security vulnerabilities — particularly relevant given Hugging Face&apos;s own disclosure of using self-hosted GLM-5.2 for forensic work during the incident.</description>
+      <guid isPermaLink="false">2026-07-21-17</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Squirro ships 13-agent enterprise catalog for regulated industries</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Squirro announced GA of an Agent Catalog with 13 prebuilt agents for finance, HR, legal, sales, and IT — each deployment shares a reusable foundation (connections, compliance approvals, knowledge layer) rather than being rebuilt per use case. The pitch: for regulated enterprises where each new AI tool triggers security and legal reviews, a vetted catalog shortens time-to-production.</description>
+      <guid isPermaLink="false">2026-07-21-18</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Practical guide: How to Build Production-Ready AI Agents</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Omdena published a hands-on guide addressing the production gap: many teams launch prototype agents but most fail to reach production because they lack engineering for observability, governance, memory, tool reliability, and testing. The post includes a lifecycle, technology stack, and evaluation rubric with metrics like task completion, tool-call correctness, cost per task, and traceable decision logs.</description>
+      <guid isPermaLink="false">2026-07-21-19</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Trending skill: ai-video-generation tops skills.sh charts</title>
+      <link>https://www.skills.sh/101-skills/skills/ai-video-generation</link>
+      <description>The ai-video-generation skill on skills.sh&apos;s 101-skills collection is trending with 22.2K installs, reflecting the surge in agent-driven video creation tooling. Vercel Labs&apos; find-skills (18.5K) and Paperclip&apos;s design-guide (15.0K) round out the top three, showing that practical creative and discovery skills dominate agent skill adoption.</description>
+      <guid isPermaLink="false">2026-07-21-20</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">skills.sh</source>
+    </item>
+    <item>
+      <title>Agent Skills spec gains traction with client implementation guide</title>
+      <link>https://agentskills.io/client-implementation/adding-skills-support.md</link>
+      <description>AgentSkills.io published updated documentation on how to add skills support to your agent, alongside a client showcase. The spec continues to gain traction as a standard way for agents to discover and load procedural capabilities — essentially a package manager for agent behaviors.</description>
+      <guid isPermaLink="false">2026-07-21-21</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">agentskills.io</source>
+    </item>
+    <item>
+      <title>OpenAI&apos;s GPT-5.6 family sees 2.5x weekly usage growth</title>
+      <link>https://news.smol.ai/issues/26-07-14-not-much/</link>
+      <description>AINews reports OpenAI&apos;s agent products — Codex and ChatGPT Work — drove 2.5x weekly usage growth, with JetBrains adopting Codex as a recommended agent. GPT-5.6 Sol, Terra, and Luna launched earlier in July with pricing from $1-5/M tokens, 90% cache-read discount, programmatic tool calling, and a multi-agent beta. The usage spike suggests enterprise adoption is accelerating.</description>
+      <guid isPermaLink="false">2026-07-21-22</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>PrismML&apos;s Bonsai 27B runs a 27B model locally on an iPhone in 3.9GB</title>
+      <link>https://news.smol.ai/issues/26-07-14-not-much/</link>
+      <description>PrismML, a Khosla-backed startup, released Bonsai 27B — a compressed variant of Qwen 3.6 27B that enables local multimodal agentic workflows on consumer devices. The model runs in just 3.9GB, fitting on an iPhone. This represents a meaningful step toward capable agents that don&apos;t need cloud APIs.</description>
+      <guid isPermaLink="false">2026-07-21-23</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Tencent Hunyuan quantizes Hy3 295B to run on a single GPU</title>
+      <link>https://news.smol.ai/issues/26-07-14-not-much/</link>
+      <description>Tencent Hunyuan introduced 1-bit and 4-bit quantized versions of Hy3 (295B total, 21B active, Apache 2.0), making it deployable on a single GPU. The MoE architecture with aggressive quantization shows how far efficiency engineering has come — frontier-scale models are now accessible without frontier-scale hardware.</description>
+      <guid isPermaLink="false">2026-07-21-24</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>AI agent startups raised $1.8B+ in July 2026 across 12+ deals</title>
+      <link>https://aifunding.me/insights/ai-agent-funding-july-2026</link>
+      <description>New funding analysis shows AI agent startups raised over $1.8B in July 2026 across at least 12 deals. The data tracks funding trends, top investors, and which agent categories dominated the month&apos;s activity — a useful barometer for where capital is flowing in the agent economy.</description>
+      <guid isPermaLink="false">2026-07-21-25</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Funding</source>
+    </item>
     <item>
       <title>Claude Code uses Bun written in Rust now</title>
       <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</link>
