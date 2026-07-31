@@ -6,7 +6,207 @@
     <description>Top AI Agent stories, curated daily</description>
     <language>en-us</language>
     <atom:link href="https://hyperio-mc.github.io/dan-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 30 Jul 2026 10:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:01:25 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI slashes GPT-5.6 prices up to 80%, introduces Sol Fast tier</title>
+      <link>https://x.com/OpenAI/status/2082878156483219672</link>
+      <description>OpenAI cut GPT-5.6 Luna by 80% and Terra by 20%, while introducing Sol Fast at 2.5× lower latency for 2× the standard price with no intelligence change. Auto-review in ChatGPT and Codex CLI is moving from GPT-5.4 to Luna, yielding roughly 10× lower cost. The cuts tie to systems-level efficiency across model, inference stack, and agentic harness.</description>
+      <guid isPermaLink="false">2026-07-31-1</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Thinking Machines releases Inkling-Small: 276B MoE with only 12B active params</title>
+      <link>https://x.com/thinkymachines/status/2082885869426631032</link>
+      <description>Inkling-Small delivers performance within one point of the flagship Inkling on Artificial Analysis&apos; Intelligence Index (40 vs 41), at a quarter the active parameter count. Open-weights, natively multimodal, with vLLM day-0 support, single-B300 deployment via Modal, and GGUF local-running guides from Unsloth. A genuinely important open release for coding and multimodal workloads.</description>
+      <guid isPermaLink="false">2026-07-31-2</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Google DeepMind launches Gemini Robotics 2: one brain for any robot</title>
+      <link>https://x.com/GoogleDeepMind/status/2082844162928381956</link>
+      <description>Gemini Robotics 2 expands from tabletop manipulation to full-body humanoid control and multi-robot coordination. The stack includes Gemini Robotics ER 2 for embodied reasoning, and On-Device 2 can adapt to new two-arm robots with fewer than 200 examples. Demos include knot-tying, bulb installation, and collaborative garage cleanup across different hardware types from one checkpoint.</description>
+      <guid isPermaLink="false">2026-07-31-3</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Cursor: 56% of merged PRs now come from cloud agents, up from 1 in 10 in December</title>
+      <link>https://x.com/cursor_ai/status/2082841397632086241</link>
+      <description>Cursor reported that cloud agents now produce the majority of merged PRs, attributing the growth to giving agents their own cloud computers and letting them improve environments over time. Jared Palmer (Cognition) separately noted he still hasn&apos;t set up a laptop for local dev, preferring Devin via Slack and webapp. A strong signal that agentic coding has crossed from demo to production infrastructure.</description>
+      <guid isPermaLink="false">2026-07-31-4</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>ARC-AGI-3 debate: agent evals increasingly measure the harness, not just the weights</title>
+      <link>https://x.com/fchollet/status/2082732210436575669</link>
+      <description>François Chollet clarified ARC rules: bespoke harnesses are banned but general-purpose API features are fair game if reported. Opus 5 scored 30.2% on official semi-private ARC vs GPT-5.6 Sol at 7.8% under standard harness — but Sol hit 38.3% on the public set using Responses API with reasoning retention and compaction. The takeaway: long-horizon evals now measure the complete agent system, not base model capability alone.</description>
+      <guid isPermaLink="false">2026-07-31-5</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>OpenAI agent security incident expanded to four additional accounts beyond Hugging Face</title>
+      <link>https://news.smol.ai/issues/26-07-29-not-much/</link>
+      <description>The July agent intrusion accessed four additional accounts across four services, using one as an outbound relay and another for storage. Hugging Face published a detailed attack timeline. The broader operator consensus: less &apos;AI doom&apos; than enterprise hardening — agent deployments need stronger sandboxing, audit trails, and governance around non-deterministic systems.</description>
+      <guid isPermaLink="false">2026-07-31-6</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>OpenAI open-sources Codex Security CLI for repo and CI/CD scanning</title>
+      <link>https://x.com/OpenAI/status/2082263717916586117</link>
+      <description>OpenAI released an open-source security scanner that can scan codebases, track findings across runs, verify fixes, and integrate into CI/CD pipelines. Available via npm with full source docs. One of the clearest practical product releases this week — immediately useful to dev and security teams.</description>
+      <guid isPermaLink="false">2026-07-31-7</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Anthropic launches Claude Opus 5 with ECI of 159, matching Fable 5 on SWE</title>
+      <link>https://news.smol.ai/issues/26-07-24-opus-5/</link>
+      <description>Claude Opus 5 achieved an Epoch Capabilities Index of 159 (vs Fable 5&apos;s 161) but matched Fable 5 on software engineering at 161. Users called it &apos;incredibly underrated&apos; vs the +1 ECI point over Opus 4.8, with strong browser-control demos. Anthropic also cut 80% of Claude Code&apos;s system prompt for the Claude 5 generation and published what remained.</description>
+      <guid isPermaLink="false">2026-07-31-8</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Moonshot&apos;s Kimi K3: 2.8T-parameter MoE with 104B active, open weights but six-figure hardware entry</title>
+      <link>https://news.smol.ai/issues/26-07-28-not-much/</link>
+      <description>Kimi K3 ships with innovations including Kimi Delta Attention, Gated MLA, and LatentMoE, plus infra components MoonEP, FlashKDA, and AgentEnv. Post-training uses nine RL experts with multi-teacher on-policy distillation. But open weights don&apos;t mean easy access: minimum 8× MI355X GPUs to load, six-figure USD entry cost, and production serving may need 64+ GPUs.</description>
+      <guid isPermaLink="false">2026-07-31-9</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>vLLM reports 464 tok/s decode on Kimi K3 with DSpark on 4×4 GB300</title>
+      <link>https://x.com/vllm_project/status/2082267336279814173</link>
+      <description>vLLM announced day-0 Kimi K3 support across AMD Instinct, NVIDIA, DigitalOcean, Modal, and Baseten. The 464 tok/s batch-size-1 decode figure was reported under a low-entropy reasoning workload. Broad ecosystem support landed immediately, reinforcing vLLM&apos;s position as the default open inference stack.</description>
+      <guid isPermaLink="false">2026-07-31-10</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Perplexity launches Model Council: multi-model comparison inside Computer agent</title>
+      <link>https://x.com/perplexity_ai/status/2082142599671107737</link>
+      <description>Perplexity pushed two launches: Personal Computer on Windows (local agent harness over files, apps, and web) and Model Council inside Computer for multi-model comparison with cited synthesis. Perplexity also added a U.S.-hosted Kimi K3 for Pro/Max users. The multi-model council pattern is emerging as a new agent UX primitive.</description>
+      <guid isPermaLink="false">2026-07-31-11</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>OpenAI uses GPT-5.6 Sol to optimize its own inference: 20% lower serving costs</title>
+      <link>https://x.com/OpenAI/status/2082577277246972300</link>
+      <description>OpenAI applied Sol post-deployment to optimize production serving, yielding 20% lower serving costs via GPU kernel improvements and 15%+ better token-generation efficiency through speculative decoding. A concrete example of AI-assisted systems optimization applied to inference infrastructure, not just coding demos.</description>
+      <guid isPermaLink="false">2026-07-31-12</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Cross-lab &apos;pacing the frontier&apos; letter sparks debate on AI slowdown governance</title>
+      <link>https://news.smol.ai/issues/26-07-29-not-much/</link>
+      <description>A letter signed by employees across frontier labs calling for coordinated slowdown options drew mixed reactions. Supporters frame it as necessary governance; critics call it operationally vague without verifiable thresholds. METR proposed independent propensity investigations after misalignment incidents. The meta-point: safety research must evaluate the full harness stack, not just base models.</description>
+      <guid isPermaLink="false">2026-07-31-13</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>OpenAI launches ChatGPT for Academic Researchers: 10K researchers, expanding to 100K</title>
+      <link>https://x.com/OpenAI/status/2082516370949062989</link>
+      <description>OpenAI&apos;s program gives researchers free access to the GPT-5.6 family with business-grade privacy and up to four collaborators per workspace. The initial cohort is 10,000 researchers, expanding to 100,000 by 2027. Framed as direct scientific acceleration rather than only in-lab research.</description>
+      <guid isPermaLink="false">2026-07-31-14</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>MarbleOS: a GUI for AI agents with visible files, tools, and tasks (Show HN)</title>
+      <link>https://marbleos.com/demo</link>
+      <description>MarbleOS proposes a workspace metaphor for agents where files, tools, tasks, and outputs are visible — not buried in chat threads. Currently in beta for download. Raises a design question the community clearly wants answered: what should the agent UI actually look like beyond chat?</description>
+      <guid isPermaLink="false">2026-07-31-15</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Git worktrees are not an isolation boundary for coding agents</title>
+      <link>https://fletch.sh/blog/git-worktrees-vs-clones-for-ai-agents/</link>
+      <description>A detailed post demonstrating that linked worktrees share refs, config, stash, and hooks with the parent repo — meaning an agent in a worktree can install hooks that execute on your host, rewrite commit identity, and pop other agents&apos; stashes. The post shows that a properly isolated clone costs the same as a worktree, making clones the correct isolation pattern for parallel coding agents.</description>
+      <guid isPermaLink="false">2026-07-31-16</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Claude-account: switch Claude Code accounts without logging in again (Show HN)</title>
+      <link>https://github.com/hamzarehmandeveloper/claude-account</link>
+      <description>A Linux-only profile switcher for Claude Code that gives each account an isolated CLAUDE_CONFIG_DIR and transparently forwards commands to the official Claude binary. Never reads or copies credential contents. Practical developer tooling for multi-account Claude Code workflows.</description>
+      <guid isPermaLink="false">2026-07-31-17</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>ResiliReplay: chaos testing for AI agents and MCP servers with deterministic replay (Show HN)</title>
+      <link>https://github.com/aliengineering-byte/resilireplay</link>
+      <description>A model-agnostic, local-first TypeScript toolkit that records versioned agent events, injects seed-controlled faults, scores recovery from declared evidence, and compiles failed traces into executable regression tests. No API key, Docker, or LLM judge needed for the deterministic path. Includes MCP chaos auditing for stdio servers.</description>
+      <guid isPermaLink="false">2026-07-31-18</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Noisegate: differential-privacy gateway for untrusted AI agents over MCP (Show HN)</title>
+      <link>https://github.com/yashmahajan10/llm-differential-privacy-gateway</link>
+      <description>Noisegate lets an untrusted LLM agent query sensitive data through MCP with formal (ε, δ)-DP guarantees. Three classic privacy attacks — differencing, membership inference, and re-identification — are shown succeeding with privacy off and defeated with it on, pinned in CI. The noise mechanism matches OpenDP to within 1e-9. Privacy is enforced downstream of the model, not dependent on it being trustworthy.</description>
+      <guid isPermaLink="false">2026-07-31-19</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>SKI: on-device voice coding for Claude Code, Codex, and more (Show HN)</title>
+      <link>https://heyski.io/</link>
+      <description>SKI closes the voice loop for coding agents: speech-to-text and neural voice synthesis both run on-device, with full-duplex barge-in so you can interrupt mid-sentence. Supports Claude Code, Cursor, Codex, Gemini CLI, and OpenClaw. Nothing you say ever leaves your machine. Free for life.</description>
+      <guid isPermaLink="false">2026-07-31-20</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Agentic: run Claude Code on any model with routing and budgets (Show HN)</title>
+      <link>https://github.com/MaorBril/agentic</link>
+      <description>Agentic wraps Claude Code in a local router — same TUI, same tools — but the model can be Anthropic, OpenAI, xAI, or anything OpenAI-compatible (Ollama, vLLM, OpenRouter, DeepSeek, Groq). Every token is metered and budget-gated. No daemon; first session binds the port and serves others, with leader election for failover.</description>
+      <guid isPermaLink="false">2026-07-31-21</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Can AI agents conduct open-ended AI research? Shadow evaluations say not yet</title>
+      <link>https://arxiv.org/abs/2607.27191</link>
+      <description>Researchers ran shadow evaluations where agents took on the central open-ended research question of unpublished NeurIPS 2026 submissions, with six days and thousands of dollars of compute. Agents completed all engineering without human help but couldn&apos;t make substantial progress on the research questions. Five recurring failure modes: poor judgment on publishability bar, uncreative responses, ineffective backtracking, poor resource awareness, and instruction drift.</description>
+      <guid isPermaLink="false">2026-07-31-22</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>The Stack v3: 114TB open code dataset, 224M repos, 5T filtered tokens</title>
+      <link>https://news.smol.ai/issues/26-07-23-not-much/</link>
+      <description>The Stack v3 is now the largest open code dataset publicly released, with 770 languages and major gains in C++ (×15), TypeScript (×7.5), Rust (×7), and Python (×4.8) vs v2. Ships contents inline rather than Software Heritage IDs, excludes restrictively licensed code, and offers ready-to-train splits. Infrastructure for the next generation of open code models.</description>
+      <guid isPermaLink="false">2026-07-31-23</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Black Forest Labs launches FLUX 3: unified multimodal model spanning image, video, audio, and action</title>
+      <link>https://x.com/bfl_ai/status/2080308988961554582</link>
+      <description>FLUX 3 is a single architecture bridging media generation and control, with early access for FLUX 3 Video and explicit extensibility toward robotics. mimic&apos;s FLUX-mimic builds on it as a Video-Action Model for robot control, already testing with Audi. The unified training story — not a family of specialized generators — is the technical headline.</description>
+      <guid isPermaLink="false">2026-07-31-24</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Anthropic, OpenAI, and vLLM jointly endorse inference-layer security standards effort</title>
+      <link>https://x.com/AnthropicAI/status/2082153297670992134</link>
+      <description>Anthropic announced a new effort around inference-layer security with vLLM joining explicitly. OpenAI formally endorsed it, and Anthropic said its own RSI research points to the same need. The collaboration signals that the inference layer — not just models — is now treated as a security-critical surface requiring coordinated standards.</description>
+      <guid isPermaLink="false">2026-07-31-25</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
     <item>
       <title>Encore AI raises $30M Series A to scale revenue-focused customer interaction agents</title>
       <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
