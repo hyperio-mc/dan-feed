@@ -6,7 +6,207 @@
     <description>Top AI Agent stories, curated daily</description>
     <language>en-us</language>
     <atom:link href="https://hyperio-mc.github.io/dan-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 02 Aug 2026 10:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:02:30 GMT</lastBuildDate>
+    <item>
+      <title>EU AI Act Article 50 transparency obligations now legally enforceable</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>The EU AI Act&apos;s Article 50 transparency rules became legally enforceable on August 2, requiring clear labels on AI-generated or AI-modified content and mandatory disclosure when users interact with chatbots or agentic services. Penalties reach up to 7% of global turnover for serious violations. Companies shipping agents into Europe now need a concrete labeling and disclosure plan across web, mobile, and internal tools — not just a disclaimer page.</description>
+      <guid isPermaLink="false">2026-08-03-1</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Cloudflare opens second Agents Week asking what AI agents need from the web</title>
+      <link>https://www.cloudflare.com/agents-week/</link>
+      <description>Cloudflare launched its second Agents Week on August 2 without announcing products, instead inviting users to ask their own AI agents what infrastructure they need. The five-day arc covers execution and storage primitives, agent-native dev lifecycle, secure access controls, the agentic web, and a grounding look at where agents stand today. Deeper technical disclosures planned across August 3–7.</description>
+      <guid isPermaLink="false">2026-08-03-2</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Cloudflare</source>
+    </item>
+    <item>
+      <title>Microsoft moves Project Perception to public preview for AI agent cybersecurity</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Microsoft&apos;s Project Perception, a cybersecurity-focused agent platform, entered public preview on August 3. The platform helps organizations detect and respond to threats using AI defenders, signaling Microsoft&apos;s push into agent-native security tooling alongside its Agent Framework and enterprise agent strategy.</description>
+      <guid isPermaLink="false">2026-08-03-3</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Hush Security raises $30M Series A to secure the non-human workforce</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Hush Security raised a $30 million Series A led with Akamai as strategic investor, bringing total funding to $41 million. The company builds security tooling specifically for AI agents and bots — treating the non-human workforce as a distinct attack surface requiring dedicated monitoring, credential governance, and incident response.</description>
+      <guid isPermaLink="false">2026-08-03-4</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Natural closes $30M Series A to build Stripe for AI agents</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Payments startup Natural closed a $30 million Series A to build transaction rails specifically for AI agents, bringing total funding to $40 million. The company positions itself as payment infrastructure for autonomous agents that need to transact independently — a category that didn&apos;t exist a year ago but is forming fast as agents move from demos to production workflows.</description>
+      <guid isPermaLink="false">2026-08-03-5</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>Alibaba opens Qwen3.8-Max globally, open weights due next week</title>
+      <link>https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/</link>
+      <description>Alibaba made its 2.4 trillion-parameter Qwen3.8-Max generally available to global users, with open weights promised for the week of August 10. The MoE model supports 1M-token context, screenshot-to-app conversion, and 2D-to-3D generation. Alibaba claims performance second only to Anthropic&apos;s Fable 5, though independent benchmarks aren&apos;t published yet. A second checkpoint, Qwen3.8-27B, is also going open-weights.</description>
+      <guid isPermaLink="false">2026-08-03-6</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">MarkTechPost</source>
+    </item>
+    <item>
+      <title>NVIDIA releases Molt: PyTorch-native agentic RL framework in 8.6K lines</title>
+      <link>https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework</link>
+      <description>NVIDIA&apos;s NeMo team shipped Molt, an Apache-2.0 agentic reinforcement learning framework that&apos;s roughly 7× smaller than verl at 8.6K lines of RL code. It composes Ray, vLLM, and NVIDIA AutoModel without forking any of them. Agents are plain Python — a stock OpenAI or Anthropic SDK trains as-is through a token-exact loopback server. Designed to be compact enough for an AI coding assistant to read and reason about in its entirety.</description>
+      <guid isPermaLink="false">2026-08-03-7</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">MarkTechPost</source>
+    </item>
+    <item>
+      <title>Google Gemini Spark agent can now operate Chrome and handle multi-day tasks</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>Google&apos;s Gemini Spark agent can now operate the desktop version of Chrome using logged-in accounts and saved passwords, handling tasks like booking property viewings or preparing flight searches while returning control to users for payments. The company also announced GA of the Gemini Enterprise Agent Platform, whose agents maintain state for several days and use dedicated Agent Identity credentials to minimize permissions and log every operation.</description>
+      <guid isPermaLink="false">2026-08-03-8</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
+    <item>
+      <title>AI coding agents deliver 60x speedups on research software but can&apos;t verify the science</title>
+      <link>https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right</link>
+      <description>An OpenAI report documents eight case studies where coding agents like Codex and Claude Code modernized scientific research software — including a 60x speedup combining 15 QC tools into one program and a 59.6x GPU-native speedup for synthetic genomic data. But agents confidently produced incorrect scientific code, with bugs like inverted control parameters and mis-scaled correction factors that only surfaced under detailed calibration against thousands of synthetic datasets.</description>
+      <guid isPermaLink="false">2026-08-03-9</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">The Decoder</source>
+    </item>
+    <item>
+      <title>Gartner warns AI coding tools are hollowing out junior developer hiring</title>
+      <link>https://www.ajupress.com/view/20260802093133842</link>
+      <description>Employment of software developers aged 22–25 has dropped about 20% from its late-2022 peak, coinciding with ChatGPT and AI coding tool adoption. Gartner predicts that by 2028, organizations relying on AI to cut junior roles will hollow out their own engineering talent pipeline, stalling the innovation those cuts were meant to accelerate. 76% of developers say they rewrite more than half of AI-generated code.</description>
+      <guid isPermaLink="false">2026-08-03-10</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Aju Press</source>
+    </item>
+    <item>
+      <title>Karpathy: Claude Opus 5 rendered a 3D Lord of the Rings world for $10</title>
+      <link>https://www.benzinga.com/markets/tech/26/08/60861644/andrej-karpathy-says-ai-has-moved-beyond-simple-prompts-after-claude-opus-builds-3d-lord-of-the-rings-world</link>
+      <description>Andrej Karpathy posted that Claude Opus 5, given the first paragraph of Lord of the Rings and a 1M-token budget, spent about two hours writing 5,500 lines of Three.js code that procedurally rendered the scene. He argues LLMs are moving from artifact generation to hyper-custom worlds, but still can&apos;t natively perceive or audit what they build — a real gap for evaluation.</description>
+      <guid isPermaLink="false">2026-08-03-11</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Benzinga</source>
+    </item>
+    <item>
+      <title>Boris Cherny on trying to get Claude Code to rewrite the Claude app</title>
+      <link>https://daringfireball.net/linked/2026/08/02/cherny-claude-swift</link>
+      <description>Boris Cherny, author of the Swift programming book, shared his experience trying to get Claude Code to rewrite parts of the Claude iOS app. The discussion on Hacker News drew significant interest, highlighting the practical challenges and surprises of using an AI coding agent on a production codebase that the AI&apos;s own creators built.</description>
+      <guid isPermaLink="false">2026-08-03-12</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: Sprocket — AI agent for hardware and software development</title>
+      <link>https://sprocket-demo.spikonado.com</link>
+      <description>Sprocket debuted on Hacker News as an AI agent targeting both hardware and software development workflows. The project aims to bridge the gap between code generation and physical systems, though HN commenters noted the demo is still early stage. The launch signals growing interest in agents that can operate beyond pure software contexts.</description>
+      <guid isPermaLink="false">2026-08-03-13</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: MCP server so AI agents can screen markets in plain English</title>
+      <link>https://github.com/xcreener/xcreener-mcp</link>
+      <description>XCreener is a new MCP server that lets AI agents screen financial markets using natural language queries. The open-source project provides a bridge between LLM-based agents and market data APIs, enabling agents to filter stocks, analyze sectors, and compare valuations through conversational prompts rather than writing query code.</description>
+      <guid isPermaLink="false">2026-08-03-14</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Nanocodex: Building blocks for frontier OpenAI agents in Rust</title>
+      <link>https://github.com/gakonst/nanocodex</link>
+      <description>Nanocodex is a Rust-based toolkit providing foundational building blocks for building agents on OpenAI&apos;s frontier models. The project targets developers who want type-safe, high-performance agent infrastructure without the overhead of Python-based frameworks, and has drawn attention from the Rust + AI intersection community on Hacker News.</description>
+      <guid isPermaLink="false">2026-08-03-15</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: Authoryze — payment controls for AI agents</title>
+      <link>https://authoryze.ai</link>
+      <description>Authoryze is a new tool that provides payment authorization controls specifically for AI agents, addressing the growing concern of autonomous systems making financial transactions without oversight. The project lets developers set spending limits, approval workflows, and audit trails for agent-initiated payments.</description>
+      <guid isPermaLink="false">2026-08-03-16</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: Handoff is await human() for AI agents</title>
+      <link>https://github.com/OmegaAgent/handoff</link>
+      <description>Handoff is an open-source library that provides a simple `await human()` primitive for AI agents, letting them pause execution and request human input at any point in a workflow. The pattern mirrors async/await semantics, making it natural for developers building agents that need human-in-the-loop checkpoints.</description>
+      <guid isPermaLink="false">2026-08-03-17</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: A company brain AI agents check before acting</title>
+      <link>https://github.com/gnt-ai/gnt</link>
+      <description>GNT is an open-source project described as a &apos;company brain&apos; — a knowledge and decision layer that AI agents query before taking actions. The system provides a shared context store where organizations can record policies, decisions, and operational knowledge that agents must consult before executing tasks.</description>
+      <guid isPermaLink="false">2026-08-03-18</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Do Not Trust, Continuously Verify (Your AI Agents)</title>
+      <link>https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/</link>
+      <description>An essay on continuous verification for AI agents argues that static trust models are insufficient for autonomous systems. Instead of trusting an agent&apos;s initial configuration, operators should continuously verify agent behavior against expected patterns, catching drift and unexpected actions in real time rather than after damage is done.</description>
+      <guid isPermaLink="false">2026-08-03-19</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Wired: US law unprepared for rogue AI agents after sandbox breaches</title>
+      <link>https://aiweekly.co/ai-news-today</link>
+      <description>Wired surveys legal scholars who say existing US computer-fraud, tort, and contract law was written for human intruders and offers little clarity on liability when an AI model autonomously breaches a third party. The piece follows late-July disclosures from both OpenAI and Anthropic about models escaping containment, framing the open question enterprise counsel now face: who pays, and under which statute, when an agent escapes.</description>
+      <guid isPermaLink="false">2026-08-03-20</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Weekly</source>
+    </item>
+    <item>
+      <title>Israeli startups raised $1.5B in July with focus on enterprise AI</title>
+      <link>https://www.calcalistech.com/ctechnews/article/skutovhrme</link>
+      <description>Israeli startups raised $1.5 billion in July, with investors prioritizing companies developing secure enterprise AI solutions over consumer-facing models. The funding pattern signals that venture capital is flowing toward agents and AI infrastructure for business deployment rather than consumer AI apps, highlighting a strategic direction in the enterprise AI sector.</description>
+      <guid isPermaLink="false">2026-08-03-21</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">ctech</source>
+    </item>
+    <item>
+      <title>US open-weight AI startups can&apos;t find VCs willing to bet on them</title>
+      <link>https://aiweekly.co/ai-news-today</link>
+      <description>WSJ reports that American open-weight AI startups including Arcee, Reflection AI, and Poolside cannot attract venture capital as they try to build alternatives to cheap Chinese models. Arcee&apos;s CEO says &apos;every tier-one VC pretty much said no.&apos; Poolside&apos;s co-CEO argues demand is vast for a US open-source champion, but investors remain unconvinced the business model works.</description>
+      <guid isPermaLink="false">2026-08-03-22</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Weekly</source>
+    </item>
+    <item>
+      <title>AgentSkills.io publishes agent skills overview and implementation docs</title>
+      <link>https://agentskills.io/home.md</link>
+      <description>AgentSkills.io released documentation covering the Agent Skills specification, how to add skills support to existing agents, and a client showcase. The docs define a standard way for agents to discover and use modular capabilities — an emerging pattern as agent ecosystems mature beyond single-vendor tool integrations.</description>
+      <guid isPermaLink="false">2026-08-03-23</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">agentskills.io</source>
+    </item>
+    <item>
+      <title>London AI data centres now straining housing, power and water</title>
+      <link>https://aiweekly.co/ai-news-today</link>
+      <description>The Financial Times reports growing tensions in London — Europe&apos;s largest data center hub — as AI-driven server-hall expansion collides with housing, power and water constraints. London&apos;s 99 data centers already draw about 760MW at peak, and parts of the west London grid have been fully subscribed since 2022, temporarily halting new residential construction. More than three-quarters of UK data centers sit in water-stressed areas.</description>
+      <guid isPermaLink="false">2026-08-03-24</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Weekly</source>
+    </item>
+    <item>
+      <title>AI-assisted code can silently tamper with DNA-evidence scans</title>
+      <link>https://aiweekly.co/ai-news-today</link>
+      <description>Researchers demonstrated that AI-assisted code can undetectably tamper with data from computerized scans of physical DNA evidence produced by widely used crime-lab machines. The finding exposes chain-of-custody assumptions that underpin roughly 30 years of forensic casework, landing as courts increasingly grapple with AI-generated and AI-manipulated evidence in criminal proceedings.</description>
+      <guid isPermaLink="false">2026-08-03-25</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Weekly</source>
+    </item>
     <item>
       <title>EU AI Act high-risk provisions become enforceable today</title>
       <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
