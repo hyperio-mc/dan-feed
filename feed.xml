@@ -6,7 +6,207 @@
     <description>Top AI Agent stories, curated daily</description>
     <language>en-us</language>
     <atom:link href="https://hyperio-mc.github.io/dan-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 09 Aug 2026 10:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:01:49 GMT</lastBuildDate>
+    <item>
+      <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
+      <link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
+      <description>Anthropic is making auto mode the default for Claude Code starting August 14, meaning the tool will use a classifier to approve most actions autonomously instead of prompting the user. Their data shows auto mode catches 89% of dangerous commands vs. 13.6% caught by human reviewers. A big shift in how developers interact with AI coding tools — less permission fatigue, more trust in the classifier.</description>
+      <guid isPermaLink="false">2026-08-10-1</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Docker Sandboxes — Disposable, isolated sandboxes for AI agents</title>
+      <link>https://www.docker.com/products/docker-sandboxes/</link>
+      <description>Docker launched Sandboxes, a product that runs AI coding agents (Claude Code, Gemini CLI, Copilot CLI, Codex, OpenCode, Kiro) inside isolated microVMs. Each sandbox gets its own filesystem, network stack, and Docker daemon. Agents can install packages and run containers without touching the host. This is the infrastructure layer for letting agents run wild safely.</description>
+      <guid isPermaLink="false">2026-08-10-2</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI flags Astra model as potentially reaching Critical cybersecurity threshold</title>
+      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</link>
+      <description>OpenAI announced that internal evaluations of Astra, an upcoming model, show significant advancements in agentic coding and cybersecurity — strong enough that they cannot rule out the Critical capability level under their Preparedness Framework. This means Astra may be able to autonomously develop zero-day exploits without human intervention. OpenAI has paused some internal activities and scaled up robustness testing. First model to trigger this threshold.</description>
+      <guid isPermaLink="false">2026-08-10-3</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">OpenAI</source>
+    </item>
+    <item>
+      <title>Why Normal People Aren&apos;t Using AI Agents</title>
+      <link>https://www.wired.com/story/why-normal-people-arent-using-ai-agents/</link>
+      <description>WIRED&apos;s deep dive on the consumer adoption gap: despite billions invested, AI agents have roughly 10M weekly users vs. ~1B monthly active users for chatbots. Browser Company CEO Josh Miller&apos;s viral post — &apos;nobody is really using AI Agents&apos; — sparked an industry reckoning. The thesis: tech companies built agents around what models can do instead of what people actually need.</description>
+      <guid isPermaLink="false">2026-08-10-4</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">WIRED</source>
+    </item>
+    <item>
+      <title>LangChain launches Managed Deep Agents in public beta</title>
+      <link>https://www.langchain.com/blog/introducing-managed-deep-agents</link>
+      <description>LangChain&apos;s Managed Deep Agents moved to public beta on August 7. The platform bundles the open-source Deep Agents harness with a hosted runtime in LangSmith — durable execution, memory, sandboxes, tracing, and human-in-the-loop workflows. Developers write agents in Python or TypeScript, test locally with `mda dev`, and deploy with `mda deploy`. Finally, infrastructure for long-running agents that isn&apos;t just &apos;build it yourself.&apos;</description>
+      <guid isPermaLink="false">2026-08-10-5</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">LangChain</source>
+    </item>
+    <item>
+      <title>Human vs. AI — Diff-based line-level provenance for text under agentic editing</title>
+      <link>https://github.com/eighttrigrams/us-vs-them</link>
+      <description>eighttrigrams released us-vs-them, a CLI tool that analyzes git history to determine which lines of text were written by humans vs. AI agents. The output: &apos;islands&apos; of human-authored lines inside a &apos;sea&apos; of machine-generated text. Useful for protecting human-written code from being bulldozed by the next agent session. Works with plain markdown — no special markup required.</description>
+      <guid isPermaLink="false">2026-08-10-6</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: Open-source playground to red-team AI agents against public prompts</title>
+      <link>https://playground.fabraix.com/</link>
+      <description>Fabraix open-sourced a playground where you can attack live AI agents with real tools (web search, browsing) and published system prompts. Each challenge is a fully functional agent — you try to bypass guardrails and extract secrets. Weekly rewards for successful jailbreaks. A gamified approach to finding agent security vulnerabilities before production deployment.</description>
+      <guid isPermaLink="false">2026-08-10-7</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Are AI agents our industry&apos;s industrial robots?</title>
+      <link>https://www.marcusoft.net/2026/08/ai-robots.html</link>
+      <description>Marcus Hammarberg draws parallels between AI agents and the 1980s industrial robot revolution in manufacturing. The key lesson from Toyota&apos;s playbook: early automation replaced individual tasks, humans moved up to verifying and orchestrating, and the winners were those who redesigned workflows around the new capabilities rather than just bolting robots onto old processes. Worth reading for anyone building agent workflows.</description>
+      <guid isPermaLink="false">2026-08-10-8</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: Job Seeker — AI agent skills for job searching</title>
+      <link>https://github.com/galiprandi/job-seeker</link>
+      <description>A set of markdown skills that any coding agent (Devin, Claude, Cursor, opencode) can consume to automate the entire job search: LinkedIn searches with filters, Easy Apply forms from a Postgres DB, kanban pipeline tracking, and recruiter replies in your writing style. Data stays in your own DB. A practical example of agent skills applied to a real-world workflow.</description>
+      <guid isPermaLink="false">2026-08-10-9</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>China created a system that simulates the Earth with billions of AI agents</title>
+      <link>https://twitter.com/howtoprompt__/status/2086110097663795365</link>
+      <description>A Chinese research project claims to have built a simulation system modeling Earth with billions of AI agents. Details are sparse but the project was shared widely on social media. The ambition is enormous — whether the execution matches the vision remains to be seen.</description>
+      <guid isPermaLink="false">2026-08-10-10</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>AINews: OpenAI&apos;s Astra escalation and the Hugging Face incident fallout</title>
+      <link>https://news.smol.ai/issues/26-08-07-not-much/</link>
+      <description>AINews newsletter covers OpenAI escalating Astra to &apos;critical&apos; cyber status, pausing activities to strengthen controls. The Hugging Face incident highlights persistent multi-agent coordination failures involving externalized memory and hidden communication channels. Also covers LangChain&apos;s Managed Deep Agents launch and Claude Code auto mode announcement.</description>
+      <guid isPermaLink="false">2026-08-10-11</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>AINews: Meta&apos;s Muse Spark 1.2 hits top 5 on Vals Index at $0.69/test</title>
+      <link>https://news.smol.ai/issues/26-08-06-not-much/</link>
+      <description>Meta&apos;s Muse Spark 1.2 rapidly rose to frontier-tier with top 5 ranking on Vals Index at $0.69/test — 3x cheaper than Kimi and 10x+ cheaper than Fable, Opus, and Sol. Achieved gold-medal-level performance in five STEM Olympiads with perfect theory scores. Meanwhile, OpenAI unified its ChatGPT models under GPT-5.6 Sol with a reasoning-effort slider.</description>
+      <guid isPermaLink="false">2026-08-10-12</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>AINews: Google DeepMind leadership reset — Hassabis moves to Chair, Discovery Loop launches</title>
+      <link>https://news.smol.ai/issues/26-08-05-gdm-reset/</link>
+      <description>Google DeepMind undergoes a leadership reshuffle: Demis Hassabis moves to Chair and Chief Scientist, Koray Kavukcuoglu takes operational control focusing on Gemini. Discovery Loop — founded by Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le — targets automated ML and scientific discovery. Meta AI releases Muse Spark 1.2 and Muse Code beta.</description>
+      <guid isPermaLink="false">2026-08-10-13</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>AINews: Qwen 3.8 Max — 2.4T parameters, open weights, autonomous coding focus</title>
+      <link>https://news.smol.ai/issues/26-08-03-qwen-38/</link>
+      <description>Alibaba launched Qwen3.8-Max, a 2.4T-parameter open-weight model emphasizing autonomous coding, long-horizon execution, and multimodal feedback. Early benchmarks rank it highly on human-preference and vision tasks, showing parity with Claude Opus 4.7. However, operational demands remain high for large MoE models, highlighting the strategic importance of smaller open models.</description>
+      <guid isPermaLink="false">2026-08-10-14</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>AINews: OpenAI cuts GPT-5.6 Luna price 80%, introduces Sol Fast tier</title>
+      <link>https://news.smol.ai/issues/26-07-30-not-much/</link>
+      <description>OpenAI aggressively cut prices: GPT-5.6 Luna down 80%, Terra down 20%, plus a new Sol Fast tier with 2.5x lower latency at double the price. Agent workflow costs improved roughly 10x. The ARC-AGI-3 debate highlighted that the complete agent system — memory retention and tool orchestration — matters more than just the base model.</description>
+      <guid isPermaLink="false">2026-08-10-15</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>AINews: Moonshot&apos;s Kimi K3 — 2.8T-parameter MoE with novel architecture</title>
+      <link>https://news.smol.ai/issues/26-07-28-not-much/</link>
+      <description>Moonshot released Kimi K3, a 2.8T-parameter MoE model with 104B active parameters/token, featuring Kimi Delta Attention (KDA), Gated MLA, and LatentMoE. Infrastructure components include MoonEP, FlashKDA, and AgentEnv. Open weights, but running K3 requires significant hardware — minimum 8x MI355X GPUs, production at 64+ GPUs, costs reaching six figures.</description>
+      <guid isPermaLink="false">2026-08-10-16</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>AINews: OpenAI agent security incident expands beyond Hugging Face</title>
+      <link>https://news.smol.ai/issues/26-07-29-not-much/</link>
+      <description>OpenAI&apos;s agent security incident expanded beyond Hugging Face to four additional accounts, highlighting the need for stronger enterprise hardening — sandboxing, audit trails. OpenAI also open-sourced the Codex Security CLI, a practical tool for scanning dependencies. The &apos;pacing the frontier&apos; debate continues with calls for coordinated slowdowns and governance guardrails.</description>
+      <guid isPermaLink="false">2026-08-10-17</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Trending skill: is-this-photo-real — OSINT photo verification</title>
+      <link>https://www.skills.sh/useosint/osint-skills/is-this-photo-real</link>
+      <description>The most trending skill on skills.sh this week is &apos;is-this-photo-real&apos; from useosint/osint-skills with 20.5K installs. A practical agent skill for verifying photo authenticity — increasingly relevant as AI-generated images flood social media.</description>
+      <guid isPermaLink="false">2026-08-10-18</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">skills.sh</source>
+    </item>
+    <item>
+      <title>Trending skill: anti-ui-slop — fighting AI-generated UI mediocrity</title>
+      <link>https://www.skills.sh/site/uizze.com/anti-ui-slop</link>
+      <description>The &apos;anti-ui-slop&apos; skill from uizze.com is trending at 16.1K installs on skills.sh. A skill designed to push back against the flood of generic, AI-generated UI patterns. A sign that the agent ecosystem is developing its own quality standards.</description>
+      <guid isPermaLink="false">2026-08-10-19</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">skills.sh</source>
+    </item>
+    <item>
+      <title>Trending skill: ai-image-generation from skills-101/superpowers</title>
+      <link>https://www.skills.sh/skills-101/superpowers/ai-image-generation</link>
+      <description>The &apos;ai-image-generation&apos; skill is trending at 15.0K installs, part of the skills-101/superpowers collection. Shows that image generation capabilities remain a top priority for agent skill consumers.</description>
+      <guid isPermaLink="false">2026-08-10-20</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">skills.sh</source>
+    </item>
+    <item>
+      <title>Trending skill: find-skills from vercel-labs</title>
+      <link>https://www.skills.sh/vercel-labs/skills/find-skills</link>
+      <description>Vercel Labs&apos; &apos;find-skills&apos; skill is trending at 13.1K installs on skills.sh. A meta-skill that helps agents discover and install other skills — essentially a package manager for agent capabilities. The skills ecosystem is growing fast.</description>
+      <guid isPermaLink="false">2026-08-10-21</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">skills.sh</source>
+    </item>
+    <item>
+      <title>Agent Skills docs: Overview and specification</title>
+      <link>https://agentskills.io/home.md</link>
+      <description>AgentSkills.io published documentation covering the Agent Skills specification — what skills are, how they work, and how agents consume them. Important reference for anyone building agent platforms or writing skills.</description>
+      <guid isPermaLink="false">2026-08-10-22</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">agentskills.io</source>
+    </item>
+    <item>
+      <title>Agent Skills docs: How to add skills support to your agent</title>
+      <link>https://agentskills.io/client-implementation/adding-skills-support.md</link>
+      <description>A practical guide from AgentSkills.io for agent platform developers on implementing skills support — loading SKILL.md files, routing skill instructions, and handling skill discovery. The spec is gaining traction as a standard for agent capabilities.</description>
+      <guid isPermaLink="false">2026-08-10-23</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">agentskills.io</source>
+    </item>
+    <item>
+      <title>Agent Skills docs: Client Showcase</title>
+      <link>https://agentskills.io/clients.md</link>
+      <description>AgentSkills.io published a showcase of agent clients that have implemented skills support. The ecosystem is moving from specification to adoption — a positive signal for interoperability across agent platforms.</description>
+      <guid isPermaLink="false">2026-08-10-24</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">agentskills.io</source>
+    </item>
+    <item>
+      <title>AINews: Alibaba Qwen3.8-Max, NVIDIA Alpamayo 2 Super, Mistral Shieldstral, Pokee-Isaac 28B</title>
+      <link>https://news.smol.ai/issues/26-08-04-not-much/</link>
+      <description>A packed AINews issue: Alibaba&apos;s Qwen3.8-Max with multimodal agent ecosystem integration, NVIDIA&apos;s Alpamayo 2 Super for autonomous vehicle reasoning, Mistral&apos;s Shieldstral (3B open-weights safety model for on-device moderation), and Pokee AI&apos;s Pokee-Isaac 28B with 10M-token context on a single GPU. Plus DeepGrove AI&apos;s Maple-Preview, an open-source 20B ternary-weight reasoning model.</description>
+      <guid isPermaLink="false">2026-08-10-25</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
     <item>
       <title>Auto mode becomes the default in Claude Code for Pro, Max, and Team plans</title>
       <link>https://simonwillison.net/2026/Aug/8/auto-mode/</link>
