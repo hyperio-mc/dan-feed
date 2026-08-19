@@ -6,7 +6,207 @@
     <description>Top AI Agent stories, curated daily</description>
     <language>en-us</language>
     <atom:link href="https://hyperio-mc.github.io/dan-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 10:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:01:34 GMT</lastBuildDate>
+    <item>
+      <title>Wiz&apos;s autonomous Red Agent found and exploited a Snowflake GitHub flaw in 5 days — then GitHub and Wiz disagreed about whether Copilot missed it</title>
+      <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
+      <description>Wiz Research&apos;s autonomous AI security tool independently discovered a script injection vulnerability in a Snowflake GitHub Actions workflow, wrote an exploit, adapted after a failed payload, and exfiltrated a Jira token — all without human intervention. The flaw went live June 18 and was exploited June 23. Wiz says Copilot reviewed and cleared the change; GitHub says Copilot never reviewed it. Only one company holds the logs. This is the first widely publicized case of an autonomous AI agent running a full attack chain end-to-end.</description>
+      <guid isPermaLink="false">2026-08-19-1</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Wiz Research</source>
+    </item>
+    <item>
+      <title>Anthropic&apos;s 186-page Risk Report raises its own risk rating, shelves a frontier model, and discloses an 11-month bioweapon classifier gap</title>
+      <link>https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf</link>
+      <description>Anthropic published its second company-wide Risk Report on August 14, escalating both misalignment and CBRN risk from &apos;very low&apos; to &apos;low.&apos; The report discloses &apos;Model 2&apos; — a stronger internal model with no current release plans — and admits bioweapon classifiers were silently disabled for 11 months across ~133 million conversations. A watershed moment for AI lab transparency, even if the admissions are uncomfortable.</description>
+      <guid isPermaLink="false">2026-08-19-2</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Anthropic</source>
+    </item>
+    <item>
+      <title>OpenAI pauses frontier RL training for two weeks to harden security and alignment controls</title>
+      <link>https://news.smol.ai/issues/26-08-18-not-much/</link>
+      <description>OpenAI slowed some frontier reinforcement learning training to strengthen monitoring, workload isolation, and red-teaming. Sam Altman framed it as capabilities outpacing safety readiness. Concrete details: monitoring adds ~20% overhead, sampled-token monitoring can alert teams within ~30 minutes, and the largest planned frontier RL run is still on hold. Notably, this is a public admission that training infra and inference-time monitors are now bottlenecks on frontier progress, not just raw compute.</description>
+      <guid isPermaLink="false">2026-08-19-3</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Google&apos;s Agent2Agent protocol moves to the Agentic AI Foundation, putting A2A and MCP under one neutral umbrella</title>
+      <link>https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards</link>
+      <description>Google&apos;s A2A protocol for inter-agent communication is becoming a hosted project of the Agentic AI Foundation — the same organization that stewards MCP. Foundation membership has grown from fewer than 40 organizations at launch to 250+. This consolidates the two most important open agent standards under a vendor-neutral home, giving buyers leverage to demand interoperability.</description>
+      <guid isPermaLink="false">2026-08-19-4</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Axios</source>
+    </item>
+    <item>
+      <title>OpenAI launches ChatGPT for Teens with age prediction and parental controls</title>
+      <link>https://openai.com/index/chatgpt-for-teens/</link>
+      <description>OpenAI shipped a dedicated ChatGPT experience for 13–17 year olds, with age prediction that auto-routes minors into the teen experience. Includes age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content and academic dishonesty. Years after teens started using ChatGPT, OpenAI is finally building for them explicitly.</description>
+      <guid isPermaLink="false">2026-08-19-5</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">OpenAI</source>
+    </item>
+    <item>
+      <title>Qwen3.8-27B becomes the local open-weight model moment — #1 in Cline, #7 on Artificial Analysis Agentic Index at 27B</title>
+      <link>https://news.smol.ai/issues/26-08-18-not-much/</link>
+      <description>Alibaba&apos;s Qwen3.8-27B, a native multimodal dense model under Apache 2.0 with 262K context (extendable to 1M), hit #1 local model in Cline within four days of release. It ranks #7 on Artificial Analysis&apos; Agentic Index and #6 among open-weight models on Vals Index v2 — all at 27B parameters. Community is calling it a &apos;DeepSeek moment&apos; for locally runnable frontier-ish models. Pushback notes benchmark wins may overstate real coding performance vs Opus 4.5.</description>
+      <guid isPermaLink="false">2026-08-19-6</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Claude Code weekly limits promotion extended through August 31 — 50% more usage on Pro, Max, and Team plans</title>
+      <link>https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</link>
+      <description>Anthropic&apos;s limited-time promotion that increases weekly usage limits in Claude Code by 50% runs through August 31, 2026. Available for Pro, Max, and Team plans (and legacy seat-based Enterprise), with no action required. After August 31, weekly limits return to standard levels. If you&apos;ve been holding back on Claude Code usage, this is your last two weeks.</description>
+      <guid isPermaLink="false">2026-08-19-7</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Anthropic</source>
+    </item>
+    <item>
+      <title>NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions — passes bot.sannysoft with a genuine fingerprint</title>
+      <link>https://github.com/pitiflautico/neobrowser</link>
+      <description>NeoBrowser is an MCP server that lets AI models drive your real Chrome browser with actual logged-in sessions, so the model lands already authenticated and looks like a genuine user. Rust rewrite packs everything into a ~4MB static binary. 43 tools, human-like input, and when it hits a CAPTCHA or Turnstile, it hands control back rather than pretending to be invisible. A practical answer to the &apos;headless bots get flagged&apos; problem.</description>
+      <guid isPermaLink="false">2026-08-19-8</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>200B Tokens Later: A month of letting AI agents decompile Call of Duty: Modern Warfare 2</title>
+      <link>https://momo5502.com/posts/2026-08-17-mw2-decompilation/</link>
+      <description>A developer used Claude Code with a Max subscription to decompile MW2 (2009) over 4 weeks with 4 parallel agents communicating via Discord. Nearly 7,000 commits, 34% of functions decompiled (5,588 of 16,324), and the game already launches. 199.8 billion tokens burned. The agents manage their own tasks via GitHub issues and coordinate without human intervention. A compelling proof of concept for long-running multi-agent software projects.</description>
+      <guid isPermaLink="false">2026-08-19-9</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Claude Code reverse-engineers an HP printer driver to teach macOS native printing for an unsupported 13-year-old printer</title>
+      <link>https://cdn.kuber.studio/chat/hp-laser-1008a-driver</link>
+      <description>A Claude Code session reverse-engineered HP&apos;s SPL3 raster language, ran HP&apos;s real codec in a Linux container, and got an HP Laser 1008a — never supported on macOS — printing natively. The session took about 4 hours in one sitting. A concrete demonstration of agentic coding solving a hardware compatibility problem that HP never bothered to address.</description>
+      <guid isPermaLink="false">2026-08-19-10</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Argus: Agentic QA tool that explores your UI like a real user — no test scripts to maintain</title>
+      <link>https://github.com/argus-testing/argus</link>
+      <description>Argus is a local, open-source visual UI testing agent built on Playwright. Describe a test, point it at a page, and five cooperating agents (Validator, Comprehender, Explorer, Strategist, Executor) crawl your app and produce a structured report with screenshots and timelines. No flaky selectors, no scripts to maintain. The agent reasons about the page and adapts — a genuine shift from scripted to agentic testing.</description>
+      <guid isPermaLink="false">2026-08-19-11</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Maritime: Deploy AI agents for $1/month per agent in isolated micro-VMs</title>
+      <link>https://maritime.sh</link>
+      <description>Maritime is a platform for running AI agents where each agent gets its own micro-VM with its own kernel — not threads in someone else&apos;s process. $1/agent/month, sleeps when idle, wakes on traffic. Supports any framework (OpenClaw, Hermes, ZeroClaw, custom) with TypeScript and Python SDKs. Hard isolation boundaries you can actually tell customers about.</description>
+      <guid isPermaLink="false">2026-08-19-12</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Relay: Self-hosted remote cockpit for AI coding agents — control Claude Code, Codex, or OpenCode from your phone</title>
+      <link>https://github.com/elin66alpha/Relay</link>
+      <description>Relay is a Flutter + Node.js app that lets you control AI coding agents running on your own machine from any device. Your source code, shell access, and CLI credentials stay on your computer — the Flutter client connects from phone, web, or desktop. No Relay cloud account, no hosted middleman. Supports up to eight named, resumable conversations per workdir. Privacy-first design for the agentic coding era.</description>
+      <guid isPermaLink="false">2026-08-19-13</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>SecIT Bench: A frontier benchmark for AI agents in IT and security workflows</title>
+      <link>https://secitbench.cribl.io/</link>
+      <description>Cribl released SecIT Bench, a benchmark designed to evaluate AI agents on real IT and security operations tasks. This fills a gap in the agent benchmark landscape, which has focused heavily on coding (SWE-bench) and general agentic tasks but neglected the security operations domain. Early HN traction suggests the community has been waiting for this.</description>
+      <guid isPermaLink="false">2026-08-19-14</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
+    </item>
+    <item>
+      <title>Cursor launches Origin — an AI-native IDE that wants to be the system of record, not just a code editor</title>
+      <link>https://news.smol.ai/issues/26-08-17-not-much/</link>
+      <description>Cursor&apos;s Origin launch signals ambition beyond GitHub replacement. Origin positions Cursor as the AI-native IDE becoming the developer&apos;s system of record — managing code, context, and agent workflows in one place. This is a strategic play for the IDE to own the agentic coding workflow end-to-end, not just autocomplete.</description>
+      <guid isPermaLink="false">2026-08-19-15</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>LangChain launches Managed Deep Agents in public beta — agent infrastructure as a service</title>
+      <link>https://news.smol.ai/issues/26-08-07-not-much/</link>
+      <description>LangChain&apos;s Managed Deep Agents enters public beta, focusing on agent infrastructure: orchestration, memory, tool management, and deployment. This moves LangChain from a framework vendor to a platform vendor, competing directly with the likes of Maritime and others building agent hosting. The bet: agent infrastructure will be as fundamental as web hosting.</description>
+      <guid isPermaLink="false">2026-08-19-16</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>OpenAI&apos;s 4+ GW NVIDIA commitment and 8 GW Ohio campus — vertical integration across power, chips, and data centers through 2032</title>
+      <link>https://news.smol.ai/issues/26-08-17-not-much/</link>
+      <description>OpenAI is moving beyond GPU supply narratives into long-horizon control of the full infrastructure stack. A 4+ GW NVIDIA capacity commitment and an 8 GW Ohio campus (with SB Energy building, NVIDIA backing initial 4.25 GW) through 2032 signals vertical coupling across power, data centers, and chips. The infra story is no longer just about compute — it&apos;s about owning the power plant.</description>
+      <guid isPermaLink="false">2026-08-19-17</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Meta&apos;s Muse Glimmer: 30B dense open-weight model optimized for always-on local agents on consumer hardware</title>
+      <link>https://news.smol.ai/issues/26-08-10-not-much/</link>
+      <description>Meta re-entered the open-weight frontier with Muse Glimmer, a 30B dense multimodal model under Apache 2.0, designed for always-on local agents. Quantization keeps it under 20GB, a lightweight DFlash drafter speeds on-device generation, and architectural innovations include Gemma 4-style hybrid attention. Scores 35 on the Intelligence Index. Meta is betting on the local agent market.</description>
+      <guid isPermaLink="false">2026-08-19-18</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Z.ai&apos;s GLM-5.3: Coding- and cyber-focused model with post-training gains rather than bigger base model</title>
+      <link>https://news.smol.ai/issues/26-08-14-cursor-xai/</link>
+      <description>Z.ai launched GLM-5.3, achieving significant gains on agentic and security benchmarks through scaled post-training rather than a larger base model. The implication: the frontier may advance through better training methods (especially RL) on existing base models, not just through scaling compute. A data point for the &apos;post-training matters more than pre-training&apos; thesis.</description>
+      <guid isPermaLink="false">2026-08-19-19</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Gemini 3.7 Flash ships just 3 weeks after 3.6 Flash — 50% intro price cut, DeepSWE 65.3%, Code Arena Elo 1588</title>
+      <link>https://news.smol.ai/issues/26-08-13-not-much/</link>
+      <description>Google rapidly released Gemini 3.7 Flash, targeting coding, web development, knowledge work, and agentic workflows. A 50% introductory price cut makes it aggressive on cost, and benchmark scores (DeepSWE 65.3%, Code Arena Elo 1588) suggest real coding improvements. Integrated across Gemini API, Android Studio, and multiple platforms within hours.</description>
+      <guid isPermaLink="false">2026-08-19-20</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>Trending agent skill: ai-video-generation tops skills.sh charts with 22.6K installs</title>
+      <link>https://www.skills.sh/skills-101/superpowers/ai-video-generation</link>
+      <description>skills.sh trending data shows ai-video-generation as the #1 agent skill this week with 22.6K installs, followed by image-to-video (17.8K) and anti-ui-slop (17.4K). The skills ecosystem is growing, with video generation tools leading adoption — a signal that agents are increasingly used for creative/media workflows, not just coding.</description>
+      <guid isPermaLink="false">2026-08-19-21</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">skills.sh</source>
+    </item>
+    <item>
+      <title>GPT-5.6 Luna becomes ChatGPT free default after 80% price cut — unlimited chats at $0.20/M tokens</title>
+      <link>https://aitoolsrecap.com/Blog/AINewsAugust2026.aspx</link>
+      <description>OpenAI made GPT-5.6 Luna the free-tier ChatGPT default following an 80% price cut on July 30 ($1 → $0.20/M tokens). Combined with Gemini crossing 1 billion monthly active users and DeepSeek raising V4 Flash prices 93%, the AI pricing landscape has shifted faster in the last two weeks than in any period since frontier models launched.</description>
+      <guid isPermaLink="false">2026-08-19-22</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Tools Recap</source>
+    </item>
+    <item>
+      <title>Stripe–OpenRouter deal crystallizes the model routing layer as a pricing battlefield</title>
+      <link>https://news.smol.ai/issues/26-08-17-not-much/</link>
+      <description>The reported Stripe–OpenRouter deal shows how valuable the model aggregation and routing API layer has become. But OpenRouter and Vercel both cut GPT-5.6 Sol pricing the same week, reinforcing that model brokerage is becoming a pricing battlefield rather than a stable tollbooth. The routing layer is hot — but margins may compress to zero.</description>
+      <guid isPermaLink="false">2026-08-19-23</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>DeepMind leadership reset: Hassabis moves to Chief Scientist, Koray takes operational control of Gemini</title>
+      <link>https://news.smol.ai/issues/26-08-05-gdm-reset/</link>
+      <description>Google DeepMind underwent a leadership reshuffle with Demis Hassabis moving to Chair and Chief Scientist roles while Koray Kavukcuoglu takes operational control focusing on Gemini and product execution. The launch of &apos;Discovery Loop&apos; by founders including Jeff Dean targets automated ML and scientific discovery. A signal that Google is shifting from research lab to product org.</description>
+      <guid isPermaLink="false">2026-08-19-24</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
+    </item>
+    <item>
+      <title>RadarFirst adds agentic AI layer for privacy and AI compliance — agents handle intake and triage, humans make decisions</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week</link>
+      <description>RadarFirst announced an Agentic Layer on top of its privacy and AI governance platform, with agents handling incident intake, identifying missing details, prioritizing cases, and drafting communications — while explicitly stopping short of making regulatory decisions. A practical human-in-the-loop pattern for high-stakes compliance work that other enterprise vendors will likely copy.</description>
+      <guid isPermaLink="false">2026-08-19-25</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://dailyagentsnews.zenbin.org/">AI Agent Store</source>
+    </item>
     <item>
       <title>Anthropic raises its own misalignment risk rating, shelves Model 2, and discloses 11-month bioweapon classifier gap</title>
       <link>https://aitoolsrecap.com/Blog/ai-news-august-18-2026</link>
@@ -9806,206 +10006,6 @@
       <guid isPermaLink="false">2026-07-01-25</guid>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <source url="https://dailyagentsnews.zenbin.org/">agentskills.io</source>
-    </item>
-    <item>
-      <title>Ornith-1.0: Self-improving open-source models for agentic coding</title>
-      <link>https://github.com/deepreinforce-ai/Ornith-1</link>
-      <description>Deep Reinforce AI released Ornith-1.0, a family of self-improving open-source models for agentic coding in 9B-Dense, 31B-Dense, 35B-MoE, and 397B-MoE configurations. The models use reinforcement learning to jointly optimize scaffolding and solution rollouts, discovering better search trajectories. The 397B variant achieves 82.4% on SWE-bench Verified and 78.2% on Terminal-Bench 2.1 (Claude Code), rivaling Claude Opus 4.8 on several benchmarks. MIT licensed, globally accessible.</description>
-      <guid isPermaLink="false">2026-06-30-1</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>Cursor ships iOS app with remote cloud agents and Live Activities</title>
-      <link>https://news.smol.ai/issues/26-06-29-not-much/</link>
-      <description>Cursor launched Cursor for iOS with always-on cloud agents and remote control of agents on your computer. The app features Live Activities for monitoring progress, diff review on phone, and the ability to kick off cloud agents that run in isolated VMs. Combined with the new /automate command for plain-language automation wiring, Cursor is pushing hard into the mobile-plus-cloud agent workflow.</description>
-      <guid isPermaLink="false">2026-06-30-2</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
-    </item>
-    <item>
-      <title>Meta&apos;s Brain2Qwerty v2 achieves real-time brain-to-text decoding at 78% accuracy</title>
-      <link>https://news.smol.ai/issues/26-06-29-not-much/</link>
-      <description>Meta announced Brain2Qwerty v2, a real-time non-invasive brain-to-text decoder achieving up to 78% word accuracy for the best participant, trained on data from 9 volunteers. The system decodes words and semantics from raw brain signals using combined neural-signal modeling and language modeling, narrowing the gap with invasive BCIs. Meta released training code for v1/v2 and BCBL released the v1 dataset.</description>
-      <guid isPermaLink="false">2026-06-30-3</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
-    </item>
-    <item>
-      <title>Huawei Cloud launches Agentic Infra with AgentArts platform entering OBT</title>
-      <link>https://www.huawei.com/en/news/2026/6/inspire-agenticera-agenticinfra</link>
-      <description>Huawei Cloud introduced Agentic Infra at INSPIRE 2026, a new paradigm featuring an efficient token factory, continuous learning, unified general and AI compute scheduling, and secure autonomy. Products include AI Cluster Service (AICS) with 200 EFLOPS across 100K+ cards, Agentic Memory Storage for PB-scale context, CCE VolcanoNext unified scheduling, and AgentSphere for secure agent runtime. AgentArts enterprise agent platform enters OBT June 30.</description>
-      <guid isPermaLink="false">2026-06-30-4</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Huawei Cloud</source>
-    </item>
-    <item>
-      <title>You really shouldn&apos;t copy-paste errors into Claude Code</title>
-      <link>https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code</link>
-      <description>Natan Yellin argues that copy-pasting terminal errors back into Claude Code is an anti-pattern that breaks the agentic loop. Instead of interrupting the agent, engineers should diagnose why the agent couldn&apos;t self-verify — missing API keys, no browser access, no database credentials — and fix the environment so the agent runs longer without you. The post reframes the developer&apos;s role from copy-paster to agentic loop debugger.</description>
-      <guid isPermaLink="false">2026-06-30-5</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Robusta Blog</source>
-    </item>
-    <item>
-      <title>Devin Fusion launches with 35% lower coding cost; Cline debuts $9.99/mo open-weight model pass</title>
-      <link>https://news.smol.ai/issues/26-06-29-not-much/</link>
-      <description>Cognition introduced Devin Fusion, a hybrid-model harness claiming 35% lower cost for Fable-level coding by dynamically routing work across multiple models. Alongside this, Cline launched a $9.99/mo pass for discounted access to open-weight frontier models including GLM 5.2, DeepSeek, Kimi, MiniMax, and Qwen — productizing open-weight model access.</description>
-      <guid isPermaLink="false">2026-06-30-6</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>Katra: Self-hosted cognitive memory for AI agents via MCP with emergent multi-agent behavior</title>
-      <link>https://github.com/kolegadev/Katra-Agentic-Memory</link>
-      <description>Katra is an open-source cognitive memory appliance you drop on any machine with Docker and connect via MCP. It provides episodic recall, semantic search, knowledge graphs, and temporal analysis for any MCP-compatible agent. In multi-agent testing, two OpenClaw agents sharing one Katra memory system spontaneously started communicating through shared memory state — an emergent behavior not designed but discovered.</description>
-      <guid isPermaLink="false">2026-06-30-7</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>Reference MCP: Let your AI agents search each other&apos;s past sessions across tools</title>
-      <link>https://github.com/kuberwastaken/reference</link>
-      <description>Reference is an MCP server that lets AI agents search each other&apos;s past session transcripts and memory files across tools. Claude Code can recall what Codex did, Codex can search your Claude history, Cursor can see both. Uses pure-Python BM25 ranking with no external dependencies beyond mcp. One uvx command per tool, nothing leaves your machine.</description>
-      <guid isPermaLink="false">2026-06-30-8</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>DoorDash open-sources Agentic Orchestrator: a TUI for long-running coding agent workflows</title>
-      <link>https://github.com/doordash-oss/agentic-orchestrator</link>
-      <description>DoorDash open-sourced Agentic Orchestrator, a TUI that turns one feature prompt into a durable engineering workflow — research, planning, implementation, code review, and PR — running concurrently from a single terminal. It builds context before coding, phases complexity through roadmap plans, and reserves human attention for decision checkpoints. Supports Claude, Codex, and OpenCode as co-equal providers.</description>
-      <guid isPermaLink="false">2026-06-30-9</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>The more AI agents write code, the more code review needs independence</title>
-      <link>https://www.coderabbit.ai/blog/code-review-needs-independence</link>
-      <description>CodeRabbit argues that as AI agents write more code, the review layer must be independent from the generation layer to be trustworthy. When the same vendor&apos;s model both writes and reviews code, the review inherits the model&apos;s blind spots. Independent AI code review with separate model context and no shared incentives is the necessary counterweight to agentic coding at scale.</description>
-      <guid isPermaLink="false">2026-06-30-10</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">CodeRabbit</source>
-    </item>
-    <item>
-      <title>Vibe Coding to Agentic Engineering: A three-phase Claude Code workflow</title>
-      <link>https://www.apimatic.io/blog/agentic-engineering-claude-code</link>
-      <description>APIMatic published a practical three-phase workflow for moving from vibe coding to agentic engineering with Claude Code. The approach pairs a structured code prompt template (imperative task, intent, context pointers, constraints, out-of-scope items, testability criteria) with explicit planning and verification phases. The result: fewer wasted sessions, less context window overflow, and code that ships.</description>
-      <guid isPermaLink="false">2026-06-30-11</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>Fleet: Local-first console for managing Dockerized Hermes AI agents</title>
-      <link>https://github.com/matt454/agent-fleet-console</link>
-      <description>Fleet is a local-first web console for creating, configuring, monitoring, and operating Dockerized Hermes AI agents across one or more trusted machines. It provides a single operator view for service health, provider defaults, shared credentials, chat sessions, browser sidecars, VNC, terminal access, backups, and remote node coordination. Designed for technical operators running personal or team-controlled agent infrastructure.</description>
-      <guid isPermaLink="false">2026-06-30-12</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>Arena hits $100M ARR run rate eight months after launching agent evaluation</title>
-      <link>https://news.smol.ai/issues/26-06-29-not-much/</link>
-      <description>Arena reached $100M ARR run rate eight months after launching its evaluation product, now emphasizing post-deployment and agent evaluation. The milestone signals that AI agent evaluation is becoming a serious commercial category — not just benchmark leaderboards, but continuous assessment of agents in production.</description>
-      <guid isPermaLink="false">2026-06-30-13</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
-    </item>
-    <item>
-      <title>Claude Code adds 5-level nested sub-agents and Artifacts beta</title>
-      <link>https://developertoolkit.ai/en/resources/updates/</link>
-      <description>Claude Code shipped nested sub-agents up to 5 levels deep, implicit agent teams, parameter-scoped permission rules, and auto-mode guardrails against destructive git/terraform operations. Artifacts (beta) turns a session into an interactive page — a PR walkthrough or living dashboard — shared at a private link. The ultracode keyword is now the dynamic-workflow trigger.</description>
-      <guid isPermaLink="false">2026-06-30-14</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Developer Toolkit</source>
-    </item>
-    <item>
-      <title>Cursor 3.8 ships /automate, cloud subagents, and Canvas Design Mode in browser</title>
-      <link>https://developertoolkit.ai/en/resources/updates/</link>
-      <description>Cursor 3.8 introduced /automate — describe an automation in plain language and the agent wires up triggers, instructions, and tools. Added Slack emoji triggers and five new GitHub triggers. Cloud subagents (/in-cloud, /babysit) spin up isolated VMs to prepare PRs remotely. Design Mode now works in the browser and inside canvases with multi-select and voice narration.</description>
-      <guid isPermaLink="false">2026-06-30-15</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Developer Toolkit</source>
-    </item>
-    <item>
-      <title>Codex v0.141 adds encrypted remote executors and Record &amp; Replay skill capture</title>
-      <link>https://developertoolkit.ai/en/resources/updates/</link>
-      <description>Codex v0.141 added encrypted Noise relay channels for remote executors and per-thread executor MCP servers. Record &amp; Replay turns a demoed workflow into an editable skill. Controller pairing enables headless fleet coordination. The update positions Codex as the orchestration layer for multi-agent coding fleets.</description>
-      <guid isPermaLink="false">2026-06-30-16</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Developer Toolkit</source>
-    </item>
-    <item>
-      <title>Anthropic hits $965B valuation, ships Claude Opus 4.8 and teases Mythos models</title>
-      <link>https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/</link>
-      <description>Anthropic raised $65 billion at a $965 billion post-money valuation, making it the most valuable private AI company ahead of OpenAI. The company shipped Claude Opus 4.8 with improved coding and multi-step task performance, while Mythos-class models are expected to reach customers in coming weeks. The valuation signals investors see Anthropic as a defining AI infrastructure platform.</description>
-      <guid isPermaLink="false">2026-06-30-17</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Kersai</source>
-    </item>
-    <item>
-      <title>MiniMax M3: Open-weight model with 1M context and native computer use</title>
-      <link>https://www.devflokers.com/blog/open-source-ai-roundup-june-2026</link>
-      <description>MiniMax released M3, the first open-weight model combining frontier-tier software engineering with a 1M-token context window and native multi-modal computer use. Built on the MiniMax Sparse Attention (MSA) architecture, it scores 59.0% on SWE-Bench Pro (exceeding GPT-5.5 and Gemini 3.1 Pro) and 74.2% on MCP Atlas. Weights and technical reports under open-weight license.</description>
-      <guid isPermaLink="false">2026-06-30-18</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">DevFlokers</source>
-    </item>
-    <item>
-      <title>NVIDIA Cosmos 3: Open foundation model for physical AI and robotics</title>
-      <link>https://www.devflokers.com/blog/open-source-ai-roundup-june-2026</link>
-      <description>NVIDIA released Cosmos 3, an open foundation model for physical AI using a mixture-of-transformers architecture. A dedicated reasoning transformer pairs with an expert generation transformer to process spatial-temporal relationships and physical motion. Cosmos 3 ranks first among open-weight options on Physics-IQ, PAI-Bench, RoboLab, and RoboArena leaderboards. Available in Super and Nano variants, with Edge for low-latency inference in development.</description>
-      <guid isPermaLink="false">2026-06-30-19</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">DevFlokers</source>
-    </item>
-    <item>
-      <title>DeepSeek DSpark pushes sparse attention inference efficiency for large MoE models</title>
-      <link>https://news.smol.ai/issues/26-06-29-not-much/</link>
-      <description>DeepSeek&apos;s DSpark was the most substantive inference topic this week. The system combines sparse attention with speculative decoding to dramatically reduce inference costs for large MoE models. Community summaries highlighted significant throughput improvements, making it practical to serve 700B+ parameter models at production scale without prohibitive hardware costs.</description>
-      <guid isPermaLink="false">2026-06-30-20</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
-    </item>
-    <item>
-      <title>Trending agent skills: remotion-render, find-skills, viral-tiktok-content, lark-doc</title>
-      <link>https://www.skills.sh/halt-catch-fire/skills/remotion-render</link>
-      <description>Trending on skills.sh this week: remotion-render (programmatic video generation), find-skills (skill discovery for agents), viral-tiktok-content (automated TikTok content creation), and lark-doc (Feishu/Lark document integration). The skills ecosystem continues to grow as agent frameworks adopt skill-based extensibility patterns.</description>
-      <guid isPermaLink="false">2026-06-30-21</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Hacker News</source>
-    </item>
-    <item>
-      <title>Agent Skills standard: Open specification for agent skill discovery and execution</title>
-      <link>https://agentskills.io/home.md</link>
-      <description>AgentSkills.io published documentation for the Agent Skills standard — an open specification for how agents discover, load, and execute modular skill packages. The overview covers the skill manifest format, the client implementation guide for adding skills support to any agent, and a showcase of compatible clients including OpenClaw, Claude Code, and others.</description>
-      <guid isPermaLink="false">2026-06-30-22</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">AgentSkills</source>
-    </item>
-    <item>
-      <title>Meta uses coding agents for closed-loop ML research on Brain2Qwerty improvements</title>
-      <link>https://news.smol.ai/issues/26-06-29-not-much/</link>
-      <description>Meta reported that an Auto Research workflow powered by a coding agent discovered and implemented improvements to Brain2Qwerty that reduced word error rate beyond standard hyperparameter optimization. The takeaway: coding agents are increasingly useful for closed-loop experimental iteration on ML systems, not just repository scaffolding.</description>
-      <guid isPermaLink="false">2026-06-30-23</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">AINews</source>
-    </item>
-    <item>
-      <title>SpaceX emerges as AI infrastructure player through Colossus compute and Cursor acquisition talks</title>
-      <link>https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/</link>
-      <description>SpaceX is becoming an AI infrastructure and platform force through Colossus compute, a potential $60 billion Cursor acquisition, and broader capital raising tied to AI compute. The company is no longer just adjacent to AI — it&apos;s building the data center and energy infrastructure that frontier model training requires, positioning itself as critical infrastructure for the AI era.</description>
-      <guid isPermaLink="false">2026-06-30-24</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">Kersai</source>
-    </item>
-    <item>
-      <title>ZAYA1-8B: Sparse model trained from scratch on AMD Instinct, Apache 2.0 licensed</title>
-      <link>https://www.devflokers.com/blog/open-source-ai-roundup-june-2026</link>
-      <description>Zyphra released ZAYA1-8B under Apache 2.0, a sparse routing model with 8B total parameters and only 760M active per token. Notably trained from scratch on AMD Instinct hardware, demonstrating that developers are no longer restricted to Nvidia-dependent pipelines for high-efficiency model training. The release signals continued diversification of AI training infrastructure.</description>
-      <guid isPermaLink="false">2026-06-30-25</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://dailyagentsnews.zenbin.org/">DevFlokers</source>
     </item>
   </channel>
 </rss>
